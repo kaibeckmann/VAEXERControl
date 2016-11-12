@@ -16,6 +16,10 @@
 * todo light, illumination sensor (ir, visible, uv?) i2c
 * todo barometer sensor i2c
 * todo humidity sensor i2c
+* liqid level sensor
+ * TI FDC1004 [site](http://www.ti.com/product/fdc1004) [datasheet](http://www.ti.com/lit/ds/symlink/fdc1004.pdf)
+ * TI FDC2214 [site](http://www.ti.com/product/FDC2214) [datasheet]()
+ * TI app note liqid level sensor [pdf[(http://www.ti.com/lit/ug/tidu736a/tidu736a.pdf)
 
 ## Raspberry Pi Pinout 
 
