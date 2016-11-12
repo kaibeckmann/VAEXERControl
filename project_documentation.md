@@ -1,8 +1,9 @@
 # Project documentation
+
 ## Raspberry Pi Pinout 
 
 | GPIO    | Alt0    | Function      | used by   | function  |
-| :---- : | :------ | :------------ | :-------- | :-------- |
+| :-----: | ------- | ------------- | --------- | --------- |
 | BCM  0  | SDA     | i2c ID bus0?  |           |           |
 | BCM  1  | SCL     | i2c ID bus0?  |           |           |
 | BCM  2  | SDA     | i2c bus 1?    |           |           |
